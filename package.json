@@ -1,0 +1,22 @@
+{
+  "name": "test-ui",
+  "version": "1.0.0",
+  "description": "learn package developer",
+  "main": "./lib/index.js",
+  "scripts": {
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "darkersu",
+  "license": "ISC",
+  "devDependencies": {
+    "path": "^0.12.7",
+    "vite": "^4.1.4",
+    "vite-plugin-vue2": "^2.0.3",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "dependencies": {
+    "element-ui": "^2.15.13",
+    "vue": "^2.6.11"
+  }
+}
