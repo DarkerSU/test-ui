@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "element-ui": "^2.15.13",
+    "test-ui-design": "^1.0.0",
     "vue": "^2.6.11"
   }
 }
