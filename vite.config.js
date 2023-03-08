@@ -6,9 +6,9 @@ export default defineConfig({
     build: {
         lib: {
             entry: resolve(__dirname, 'lib/index.js'),
-            name: 'test-ui',
+            name: 'test-ui-design',
             formats: ['es'],
-            fileName: 'test-ui'
+            fileName: 'test-ui-design'
         },
         sourcemap: true,
         rollupOptions:{
